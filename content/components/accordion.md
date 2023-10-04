@@ -2,7 +2,7 @@
 title: Accordion
 description: Organizes content in collapsible sections, enabling users to expand or collapse them as needed.
 ---
-
+```
 <script>
 	import { APISection, ComponentPreview, AccordionDemo } from '@/components'
 	export let schemas
@@ -13,7 +13,7 @@ description: Organizes content in collapsible sections, enabling users to expand
 <AccordionDemo slot="preview" />
 
 </ComponentPreview>
-
+```
 ## Structure
 
 ```svelte
