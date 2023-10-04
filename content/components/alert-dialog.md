@@ -2,7 +2,7 @@
 title: Alert Dialog
 description: Presents critical information or prompts to the user, typically requiring their attention or action.
 ---
-
+```
 <script>
 	import { APISection, ComponentPreview, AlertDialogDemo } from '@/components'
 	export let schemas;
@@ -13,7 +13,7 @@ description: Presents critical information or prompts to the user, typically req
 <AlertDialogDemo slot="preview" />
 
 </ComponentPreview>
-
+```
 ## Structure
 
 ```svelte
